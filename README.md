@@ -1,4 +1,4 @@
-# HR Analytics Dashboard
+# EMPLOYEE ATTRITION ANALYSIS
 
 ## Project Overview
 This project aims to analyze employee attrition and provide insights into factors influencing turnover. The HR Analytics Dashboard visualizes key HR metrics such as attrition rate, employee demographics, education levels, job roles, and department-wise attrition trends to support data-driven decision-making.
